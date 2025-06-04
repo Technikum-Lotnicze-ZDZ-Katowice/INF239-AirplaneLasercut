@@ -63,4 +63,4 @@ W obu scenariuszach pamiętaj że dodawanie punktów odbywa się przez dwuktotne
 5. Można dodać uniwersalne wcięcie pozwalające na montaż uniwersalnej podstawki. (jak ba rysyunku poniżej).
 6. W miejscach wcześniej zaplanowanych nacięć utwórz precyzyjne wcięcia o szerokości równej grubości sklejki (dokładnie 3 mm). Pomiarów można dokonywać w programie graficznym.
 
-![Stand](Stand.jpg)
+![Stand](Stand.png)
