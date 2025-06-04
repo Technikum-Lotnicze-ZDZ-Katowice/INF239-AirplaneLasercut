@@ -27,11 +27,22 @@ zdefiniuj tytuł (najlepiej aby w tytule była tylko Nazwa samolotu) i zredaguj 
 #### III. Obrys samolotu przygotowany jako plik wektorowy w dowolnym programie graficznym.
 1. Pobierz i zainstaluj dowolny program graficzny pozwalający na eksport obrazu jako grafikę wektorową. Zalecany Inkscape dostępny między innymi w sklepie Windows lub pod tym linkiem: https://inkscape.org/
 
-2. Po instalacji utwórz pusty dokument lub otwórz blueprint w programie. Do pustego dokumentu przeciągnij blueprint i dopasuj go arkusza dokumentu. Postaraj się skalować proporcjonalnie (bez zmiany stosunku boków obrazu).
+2. Po instalacji i uruchomieniu programu utwórz pusty dokument lub otwórz blueprint w programie. Do pustego dokumentu przeciągnij blueprint i dopasuj go arkusza dokumentu. Postaraj się skalować proporcjonalnie (bez zmiany stosunku boków obrazu).
+
+3. Użyj podstawowych narzędzi rysunkowych aby utworzyć pojedynczy obrys dla widoku z góry i widoku z boku. Zastosuj dowolny obrys bez wypełnienia (lub z wypełnieniem półprzezroczystym). Atrybuty wypełnienia i obrysu można zmienić w panelu "Wypełnienie i obrys". Poniżej dwa proponowane podejścia:
+
+![Drawing](Drawing.jpg)
+
+   - Zacznij od elipsy którą umieszczasz na blueprincie na widoku z boku i/lub z góry. Przekonwertuj obiekt elipsy do Ścieżki: "Path > Convert to Path". Po konwersji do zwykłej ścieżki dodawaj i przesuwaj kolejne węzły umieszczane na obrazie w charakterystycznych punktach na blueprincie.
+
+   - Zacznij od narzędzia pióro (Pen tool) i klikaj na obrazie tworząc linię łamaną wokół obrysu na blueprincie. Dodawaj węzły i przesuwaj je w razie potrzeby do miejsc charakterystycznych na blueprincie.
+  
+W obu scenariuszach pamiętaj że dodawanie punktów odbywa się przez dwuktotne kliknięcie na segmencie ścieżki i/lub zamieniaj segmenty proste na krzywe chwytając przesuwając segmenty między węzłami.
 
 ![B747](B747.svg)
 
-4. 
+4. Postaraj się dopasować obrys do blueprintu
+5.  
 
   
-5. 
+6. 
