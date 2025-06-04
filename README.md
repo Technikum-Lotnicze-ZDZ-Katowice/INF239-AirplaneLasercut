@@ -63,7 +63,7 @@ W obu scenariuszach pamiętaj że dodawanie punktów odbywa się przez dwuktotne
 
 2. Utwórz na kolejnej warstwie obraz szczegółów (można użyć dowolnego koloru) po uprzednim zablokowaniu warstwy/warstw z obrazem i obrysami z góry i z boku. W miarę możliwości przedstaw szczegóły takie jak okna, drzwi, krawędzie paneli, oznaczenia lini lotniczych) Zastosuj dowolne kolory, ale cięcie i grawerowanie laserowe będzie jednokolorowe (ciemne linie na jasnej sklejce)
 3. Aby zwiększyć realizm można zaplanować silniki jako odrębne elementy i przygotować wcięcia pozwalające na wsunięcie na skrzydła.
-4. Można pomyśleć o szczegółąch takich jak podwozie jeśli na wydruku z drukarki będą one większe niż 3 milimetry.
+4. Można pomyśleć o szczegółąch takich jak podwozie jeśli na wydruku z drukarki te detale będą one większe niż 3 milimetry.
 5. Można dodać uniwersalne wcięcie pozwalające na montaż uniwersalnej podstawki. (jak ba rysunku poniżej).
 6. W miejscach wcześniej zaplanowanych nacięć utwórz precyzyjne wcięcia o szerokości równej grubości sklejki (dokładnie 3 mm). Pomiarów można dokonywać w programie graficznym.
 7. Zastanów się jak nanieść drugą stronę szczegółów (drugi bok, spód).
