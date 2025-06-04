@@ -3,6 +3,7 @@
 ### Zadanie polega na przygotowaniu modelu samolotu dla wycinania laserowego.
 
 ![Lasercut](Lasercut.jpg)
+żródło: etsy.com
 
 ---
 
