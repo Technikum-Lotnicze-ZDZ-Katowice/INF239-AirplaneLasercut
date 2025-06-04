@@ -37,12 +37,26 @@ zdefiniuj tytuł (najlepiej aby w tytule była tylko Nazwa samolotu) i zredaguj 
 
    - Zacznij od narzędzia pióro (Pen tool) i klikaj na obrazie tworząc linię łamaną wokół obrysu na blueprincie. Dodawaj węzły i przesuwaj je w razie potrzeby do miejsc charakterystycznych na blueprincie.
   
-W obu scenariuszach pamiętaj że dodawanie punktów odbywa się przez dwuktotne kliknięcie na segmencie ścieżki i/lub zamieniaj segmenty proste na krzywe chwytając przesuwając segmenty między węzłami.
+W obu scenariuszach pamiętaj że dodawanie punktów odbywa się przez dwuktotne kliknięcie na segmencie ścieżki. W ten sam sposób można usunąć nadmiarowe węzły. Aby zamienić segmenty proste na krzywe chwytając przesuwając segmenty między węzłami. Uwzględnij wystające elementy (np silniki) ale pomiń drobne szczegóły, które trudno będzie wyciąć (np anteny)
+
+![Drawing](Drawing.jpg)
+
+4. Postaraj się dopasować obrys do blueprintu dla widoków z góry i z boku
 
 ![B747](B747.svg)
 
-4. Postaraj się dopasować obrys do blueprintu
-5.  
+5. Zapisz dokument jako svg (lub inny format wektorowy)
 
-  
-6. 
+#### IV. Model fizyczny
+1. Przed wycięciem laserowym wypróbuj model kartonowy. Jeśli masz możliwość to wydrukuj na drukarce (laserowej lub atramentowej) swój projekt. Wytnij dwa obrysy (widok z góry i widok z boku) a następnie dopasuj je dosiebie i zaplanuj nacięcia (natnij norzyczkami) aby mozna było połączyć ze sobą dwa obrysy. W razie konieczności przed wycięciem naklej wydruk na tekturkę i wytnij z tektury.
+2. Nacięcia powinny być jak najkrótsze i mogą być skierowane zarówno w poziomie jak i w pionie. Poniżej przykład. 
+3. W razie potrzeby powtórz wydruk i wycinanie aby uzyskać stabilnną konstrukcję.
+4. Wróć do programy i na osobnej warstwie zaznacz wcześniej zaplanowane linie cięcia.
+5. Dodaj w ramach dokumentu tabliczkę znamionową zawierającą twoje imię i nazwisko, Nazwę samolotu i skalę modelu (oblicz skalę mierząc samolot na wydruku A4 i porównując z oryginałem).
+6. Model ze sklejki zostanie przygotowany na podstawie waszych projektów po przetestowaniu koncepcji wycięcia modelu kartonowego.
+
+![](Layers.jpg)
+
+#### V. Model zaawansowany
+1. Utwórz na kolejnej warstwie obraz szczegółów (można użyć dowolnego koloru) po uprzednim zablokowaniu warstwy/warstw z obrazem i obrysami z góry i z boku. W miarę możliwości przedstaw szczegóły takie jak okna, drzwi, krawędzie paneli, oznaczenia lini lotniczych) Zastosuj dowolne kolory, ale cięcie i grawerowanie laserowe będzie jednokolorowe (ciemne linie na jasnej sklejce)
+2. 
