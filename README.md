@@ -2,6 +2,8 @@
 
 ### Zadanie polega na przygotowaniu modelu samolotu wykonanego metodą wycinania laserowego.
 
+![Lasercut](Lasercut.jpg)
+
 ---
 
 #### I.Prace przygotowawcze
@@ -47,7 +49,7 @@ W obu scenariuszach pamiętaj że dodawanie punktów odbywa się przez dwuktotne
 1. Przed wycięciem laserowym wypróbuj model kartonowy. Jeśli masz możliwość to wydrukuj na drukarce (laserowej lub atramentowej) swój projekt. Wytnij dwa obrysy (widok z góry i widok z boku) a następnie dopasuj je dosiebie i zaplanuj nacięcia (natnij norzyczkami) aby mozna było połączyć ze sobą dwa obrysy. W razie konieczności przed wycięciem naklej wydruk na tekturkę i wytnij z tektury.
 2. Nacięcia powinny być jak najkrótsze i mogą być skierowane zarówno w poziomie jak i w pionie. Poniżej przykład. 
 3. W razie potrzeby powtórz wydruk i wycinanie aby uzyskać stabilnną konstrukcję.
-4. Wróć do programy i na osobnej warstwie zaznacz wcześniej zaplanowane linie cięcia.
+4. Wróć do programu i na osobnej warstwie zaznacz wcześniej zaplanowane linie cięcia (dodaj szerokość wcięć 3mm).
 5. Dodaj w ramach dokumentu tabliczkę znamionową zawierającą twoje imię i nazwisko, Nazwę samolotu i skalę modelu (oblicz skalę mierząc samolot na wydruku A4 i porównując z oryginałem).
 6. Model ze sklejki zostanie przygotowany na podstawie waszych projektów po przetestowaniu koncepcji wycięcia modelu kartonowego.
 
