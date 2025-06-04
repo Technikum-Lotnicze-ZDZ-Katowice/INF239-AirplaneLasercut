@@ -1,6 +1,6 @@
 # INF239-AirplaneLasercut
 
-### Zadanie polega na przygotowaniu modelu samolotu wykonanego metodą wycinania laserowego.
+### Zadanie polega na przygotowaniu modelu samolotu dla wycinania laserowego.
 
 ![Lasercut](Lasercut.jpg)
 
