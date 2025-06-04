@@ -29,7 +29,7 @@ zdefiniuj tytuł (najlepiej aby w tytule była tylko Nazwa samolotu) i zredaguj 
 
 2. Po instalacji utwórz pusty dokument lub otwórz blueprint w programie. Do pustego dokumentu przeciągnij blueprint i dopasuj go arkusza dokumentu. Postaraj się skalować proporcjonalnie (bez zmiany stosunku boków obrazu).
 
-![B747](B747.png)
+![B747](B747.svg)
 
 4. 
 
