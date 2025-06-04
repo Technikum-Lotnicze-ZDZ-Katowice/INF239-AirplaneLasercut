@@ -39,8 +39,6 @@ zdefiniuj tytuł (najlepiej aby w tytule była tylko Nazwa samolotu) i zredaguj 
   
 W obu scenariuszach pamiętaj że dodawanie punktów odbywa się przez dwuktotne kliknięcie na segmencie ścieżki. W ten sam sposób można usunąć nadmiarowe węzły. Aby zamienić segmenty proste na krzywe chwytając przesuwając segmenty między węzłami. Uwzględnij wystające elementy (np silniki) ale pomiń drobne szczegóły, które trudno będzie wyciąć (np anteny)
 
-![Drawing](Drawing.jpg)
-
 4. Postaraj się dopasować obrys do blueprintu dla widoków z góry i z boku
 
 ![B747](B747.svg)
@@ -58,5 +56,6 @@ W obu scenariuszach pamiętaj że dodawanie punktów odbywa się przez dwuktotne
 ![](Layers.jpg)
 
 #### V. Model zaawansowany
-1. Utwórz na kolejnej warstwie obraz szczegółów (można użyć dowolnego koloru) po uprzednim zablokowaniu warstwy/warstw z obrazem i obrysami z góry i z boku. W miarę możliwości przedstaw szczegóły takie jak okna, drzwi, krawędzie paneli, oznaczenia lini lotniczych) Zastosuj dowolne kolory, ale cięcie i grawerowanie laserowe będzie jednokolorowe (ciemne linie na jasnej sklejce)
-2. 
+1. Dla widoku z góry można przygotowac tylko połowę profilu a drugą połowę utworzyć przez odbicie lustrzane i połąćzenie węzłów. Jeśli to wyaj ci się zbyt skomplikowane, obrysuj całyość jednorazowo.
+2. Utwórz na kolejnej warstwie obraz szczegółów (można użyć dowolnego koloru) po uprzednim zablokowaniu warstwy/warstw z obrazem i obrysami z góry i z boku. W miarę możliwości przedstaw szczegóły takie jak okna, drzwi, krawędzie paneli, oznaczenia lini lotniczych) Zastosuj dowolne kolory, ale cięcie i grawerowanie laserowe będzie jednokolorowe (ciemne linie na jasnej sklejce)
+3. 
