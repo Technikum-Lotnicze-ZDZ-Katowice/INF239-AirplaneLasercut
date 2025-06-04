@@ -41,8 +41,6 @@ W obu scenariuszach pamiętaj że dodawanie punktów odbywa się przez dwuktotne
 
 4. Postaraj się dopasować obrys do blueprintu dla widoków z góry i z boku
 
-![B747](B747.svg)
-
 5. Zapisz dokument jako svg (lub inny format wektorowy)
 
 #### IV. Model fizyczny
@@ -57,6 +55,9 @@ W obu scenariuszach pamiętaj że dodawanie punktów odbywa się przez dwuktotne
 
 #### V. Model zaawansowany
 1. Dla widoku z góry można przygotowac tylko połowę profilu a drugą połowę utworzyć przez odbicie lustrzane i połąćzenie węzłów. Jeśli to wyaj ci się zbyt skomplikowane, obrysuj całyość jednorazowo.
+
+![B747](B747.svg)
+
 2. Utwórz na kolejnej warstwie obraz szczegółów (można użyć dowolnego koloru) po uprzednim zablokowaniu warstwy/warstw z obrazem i obrysami z góry i z boku. W miarę możliwości przedstaw szczegóły takie jak okna, drzwi, krawędzie paneli, oznaczenia lini lotniczych) Zastosuj dowolne kolory, ale cięcie i grawerowanie laserowe będzie jednokolorowe (ciemne linie na jasnej sklejce)
 3. Aby zwiększyć realizm można zaplanować silniki jako odrębne elementy i przygotować wcięcia pozwalające na wsunięcie na skrzydła.
 4. Można pomyśleć o szczegółąch takich jak podwozie jeśli na wydruku z drukarki będą one większe niż 3 milimetry.
