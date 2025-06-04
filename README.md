@@ -10,7 +10,7 @@
 
 ![B747](B747.png)
    
-4. Wyślij do swojego folderu na dysku Google lub zapisz na pendrive blueprint (plik graficzny)
+4. Wyślij blueprint do swojego folderu na dysku Google lub zapisz na pendrive blueprint (plik graficzny)
 
 #### II. Artykuł na portalu Animateria.pl
 1. Aby usystematyzować informacje na temat wybranych przez was portów, przygotuj artykuł z ogólnodostępnymi informacjami na temat twojego samolotu i opublikuj na stronie http://animateria.pl/tl-planes/ (poniżej instrukcja jak to zrobić).
